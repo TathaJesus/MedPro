@@ -14,11 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.medpro.medpro.model.dto.DadosAtualizacaopaciente;
 import com.medpro.medpro.model.dto.DadosAtualizacaoPaciente;
 import com.medpro.medpro.model.dto.DadosCadastroPaciente;
-import com.medpro.medpro.model.dto.DadosDetalhamentoMedico;
-import com.medpro.medpro.model.dto.DadosDetalhamentopaciente;
 import com.medpro.medpro.model.dto.DadosDetalhamentoPaciente;
 import com.medpro.medpro.model.dto.DadosListagemPaciente;
 import com.medpro.medpro.model.entity.Paciente;
